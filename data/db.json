@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "b",
+      "price": 0,
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "b",
+      "price": 0,
+      "checked": false,
+      "id": 13
+    },
+    {
+      "name": "b",
+      "price": 0,
+      "checked": false,
+      "id": 14
+    },
+    {
+      "name": "b",
+      "price": 0,
+      "checked": false,
+      "id": 15
+    },
+    {
+      "name": "b",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "az",
+      "price": 0,
+      "checked": false,
+      "id": 17
+    },
+    {
+      "name": "Compuer",
+      "price": "2300",
+      "checked": false,
+      "id": 20
+    },
+    {
+      "name": "Smart Phone",
+      "price": "6000",
+      "checked": false,
+      "id": 22
+    },
+    {
+      "name": "Printer",
+      "price": "2300",
+      "checked": false,
+      "id": 24
+    }
+  ]
+}
